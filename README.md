@@ -22,8 +22,7 @@ Based on the users choices they will be given a coding language. Using different
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _None so far_
 
 ## License
 
