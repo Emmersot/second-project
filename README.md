@@ -19,6 +19,9 @@ Based on the users choices they will be given a coding language. Using different
 2. Navigate to the top level of directory.
 3. Open *index.html* in your browser.
 
+## GitHub Page Links
+
+*Emmersot.github.io/second-project/
 
 ## Known Bugs
 
