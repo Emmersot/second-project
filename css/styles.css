@@ -1,3 +1,15 @@
-#LOL, #Swift ,#Ruby, #Python, #user {
+#LOL, #Swift ,#Ruby, #Python {
   display: none;
 }
+
+body {
+  background-color: rgba(243, 229, 186, 0.571);
+  font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+  justify-content: center;
+  display: flex;
+}
+
+
